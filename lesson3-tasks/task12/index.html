@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Travel reservation form</h1>
+
+    <h3>* denotes mandotory</h3>
+
+    <form action="#">
+        <label for="userFullname">
+            Full name* <br>
+            <input type="text" placeholder="Firstname Lastname" required>
+        </label>
+
+        <br><br>
+
+        <label for="userAddress">
+            Email address* <br>
+            <input type="text" placeholder="Email address" required>
+        </label>
+
+        <br><br>
+
+        <label for="userPackage">
+            Select tour Package* <br>
+            <select required>
+                <option>GOA</option>
+                <option>Premium</option>
+                <option>Silver</option>
+            </select>
+        </label>
+
+        <br><br>
+
+        <label for="userArrivaldate">
+            Arrival Date* : <br>
+            <input type="datetime" id="userArrivaldate" placeholder="m/d/y" required>
+        </label>
+
+        <br><br>
+
+        <label for="userPersons">
+            Number of persons* <br>
+            <input type="number" id="userPersons" required>
+        </label>
+
+        <br>
+
+        <label>
+            What would you want to avail?* <br>
+
+            Boarding
+            <input type="checkbox">
+
+            <br>
+
+            Fooding
+            <input type="checkbox">
+
+            <br>
+
+            Sight Seeing
+            <input type="checkbox">
+        </label>
+
+        <br><br>
+
+        <label>
+            Discount Coupon code : <br>
+            <input type="text" placeholder="Coupon code">
+        </label>
+
+        <br><br>
+
+        <label for="termsandcon">
+            Terms and conditions* <br>
+            <input type="radio" id="termsandcon" name="tersandcon">
+            I Agree
+            <input type="radio" id="termsandcon" name="tersandcon">
+            I Disagree
+        </label>
+
+        <br><br>
+
+        <button>Complete reservation</button>
+    </form>
+</body>
+</html>
