@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+    <form action="#">
+        <fieldset>
+            <legend>Login</legend>
+            <label for="userUsername">
+                Username: *
+                <input type="text" id="userUsername">
+            </label>
+            <br>
+            <label for="userPassword">
+                Password: *
+                <input type="password" id="userPassword">
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Gender*</legend>
+            <label for="">
+                <input type="radio" name="gender">
+                Male
+                <input type="radio" name="gender">
+                Female
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Programming skill</legend>
+            <label>
+                <input type="checkbox" checked>
+                Java
+                <input type="checkbox">
+                C++
+                <input type="checkbox">
+                C#
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Fruit</legend>
+            <label>
+                Choose a fruit :
+                <select>
+                    <option>Banana</option>
+                    <option>Apple</option>
+                </select>
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <label for="userMessage">
+                <textarea id="userMessage" cols="30" rows="10" placeholder="Enter your comment here"></textarea>
+            </label>
+        </fieldset>
+
+        <button>SEND</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>
