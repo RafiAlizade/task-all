@@ -1,0 +1,10 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-text {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}

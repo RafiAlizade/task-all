@@ -1,0 +1,67 @@
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 2.5em;
+}
+
+.text1 {
+    font-size: 1.5em;
+    color: yellowgreen;
+}
+
+.text1 #text1-italic {
+    background-color: purple;
+    color: white;
+}
+
+#text2 , #text3 , #text4 {
+    background-color: aqua;
+    color: white;
+}
+
+#wa-rainbh , #wm-bowh , #wdp-th {
+    background-color: blue;
+    color: white;
+}
+
+#redh2-text1 , #redh2-text2 {
+    color: blue;
+}
+
+#green-backtext {
+    background-color: rgb(62, 243, 62);
+    color: white;
+}
+
+.redh2 {
+    color: red;
+}
+
+.wm-bul {
+    color: blue;
+}
+
+.wm-bul li {
+    background-color: yellow;
+}
+
+#redh2-text3 {
+    background-color: black;
+    color: white;
+}
+
+.blueh2 {
+    color: blue;
+}
+
+.links-ul {
+    color: blue;
+}
+
+.links-ul li {
+    background-color: yellow;
+}
+
+.links-ul a {
+    color: white;
+}

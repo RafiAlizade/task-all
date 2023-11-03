@@ -1,0 +1,27 @@
+#about-t {
+    color: green;
+}
+
+.paragraph1 #extreme-m , #male-b , #text3 {
+    color: rgb(215, 215, 2);
+}
+
+.ou-loc #USA , #WORLD {
+    color: red;
+}
+
+h2 {
+    color: green;
+}
+
+.footer-nav {
+    text-decoration: none;
+}
+
+.footer-nav #twitter-nav {
+    color: lightblue;
+}
+
+label {
+    color: rgb(148, 0, 0);
+}

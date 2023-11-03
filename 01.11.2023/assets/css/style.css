@@ -1,0 +1,107 @@
+/* .box {
+    height: 35px;
+    width: 75px;
+    border: none;
+}
+
+.box1 {
+    height: 35px;
+    width: 75px;
+    border: 4px dotted black;
+}
+
+.box2 {
+    height: 35px;
+    width: 75px;
+    border: 10px dashed green;
+}
+
+.box3 {
+    height: 35px;
+    width: 75px;
+    border: 5px solid black;
+}
+
+.box4 {
+    height: 35px;
+    width: 75px;
+    border: 7px double blue;
+}
+
+.box5 {
+    height: 35px;
+    width: 75px;
+    border: 5px groove yellow;
+}
+
+.box6 {
+    height: 35px;
+    width: 75px;
+    border: 5px ridge green;
+}
+
+.box7 {
+    height: 35px;
+    width: 75px;
+    border: 5px inset red
+}
+
+.box8 {
+    height: 35px;
+    width: 75px;
+    border: 7px outset violet;
+} */
+
+/* .marginbox {
+    width : 250px;
+    height: 250px;
+    background-color: brown;
+    margin: 20px 20px;
+} */
+
+/* .paddingtask {
+    background-color: orangered;
+    border: 3px solid black;
+    height: 70px;
+    width: 100%;
+    padding: 30px 30px;
+}
+
+.paddingtask2 {
+    background-color: orangered;
+    border: 3px solid black;
+    height: 30px;
+    width: 100%;
+    padding: 30px;
+} */
+
+/* .contentbox {
+    box-sizing: content-box;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    padding: 15px 15px;
+    border: 5px solid black;
+    margin: 30px 30px;
+}
+
+.borderbox {
+    box-sizing: border-box;
+    height: 160px;
+    width: 260px;
+    text-align: center;
+    padding: 15px 15px;
+    border: 5px solid red;
+    margin: 30px 30px;
+} */
+
+.content {
+    background-color: grey;
+    height: 150px;
+    width: 400px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 120px;
+    margin: 30px 100px;
+}

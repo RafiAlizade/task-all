@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+.navigation-date #February {
+    color: rgb(155, 155, 19);
+}
+
+.navigation-date #March , #May {
+    color: grey;
+}
+
+.navigation-date #September {
+    color: rgb(253, 81, 253);
+}
+
+#red-text {
+    color: red;
+}
+
+#redtext-wb {
+    background-color: red;
+}
+
+#blue-text {
+    color: blue;
+}
+
+#bluetext-wb {
+    background-color: blue;
+}
+
+.cop-radiusb {
+    border: 1px solid black;
+    border-radius: 16px;
+    padding-left: 10px;
+}
+
+#privacy-link {
+    color: grey;
+}
+
+#yellow-text {
+    color: rgb(214, 214, 0);
+    font-size: 1.5em;
+}
