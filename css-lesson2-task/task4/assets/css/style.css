@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ccccff;
+}
+
+dl {
+    margin-left: 35px;
+}
+
+.bluetext {
+    color: blue;
+}
+
+.redtext {
+    color: red;
+}
+
+.redtextwb {
+    border: 4px dotted black;
+}

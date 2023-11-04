@@ -1,0 +1,11 @@
+#dotted {
+    border: 4px dotted blue;
+}
+
+#dashed {
+    border: 4px dashed yellow;
+}
+
+#solid {
+    border: 4px solid rgb(52, 106, 52);
+}

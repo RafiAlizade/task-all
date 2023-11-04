@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+#solidt {
+    border: 3px solid red;
+    width: 15%;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+#dottedt {
+    border: 3px dotted red;
+    width: 15%;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+#dashedt {
+    border: 3px dashed red;
+    width: 15%;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+}
